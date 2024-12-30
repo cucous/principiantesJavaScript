@@ -1,6 +1,6 @@
 # Proyecto de JavaScript
 
-Este es un proyecto de JavaScript que tiene como objetivo mostrar los conceptos básicos de JavaScript, entre otros
+Este es un proyecto de JavaScript basado en el curso de **Ultimate JavaScript: de cero a programador experto**  que tiene como objetivo mostrar los conceptos básicos de JavaScript, entre otros
 
 ## Instalación
 
